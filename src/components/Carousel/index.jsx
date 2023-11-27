@@ -15,7 +15,7 @@ export const Carousel = ({carouselForDay, setCarouselForDay, data, setData}) => 
     setData(
       // hele, tady ta logika nastavování dat je trochu složitější
       // schválně sem nepíšu funkční kód, ale všechno, co je k tomu potřeba má ta komponenta k dispozici
-      // takže to zkuste vyřešit sami
+      // takže to zkuste vyřešit samy
       // kdyby jste si nevěděli rady, tak to projdeme spolu
     )
     setCarouselForDay(null);
